@@ -1,12 +1,13 @@
 #include <iostream>
+#include "func.h"
 
 using namespace std;
 
-int test();
-
 int main()
 {
+
     test();
+    return 0;
 }
 
 

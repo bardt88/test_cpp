@@ -1,6 +1,6 @@
+#ifndef ADD_H
+#define ADD_H
 
-int test2()
-{
+void test()
 
-    return 52;
-}
+#endif

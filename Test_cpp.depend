@@ -4,8 +4,12 @@
 
 1422304847 source:c:\users\baksteen\desktop\tt\test_cpp\functions.cpp
 
-1422304847 source:c:\users\baksteen\documents\projects\test_cpp\src\functions.cpp
-
-1422561247 source:c:\users\baksteen\documents\projects\test_cpp\src\main.cpp
+1422564247 source:c:\users\baksteen\documents\projects\test_cpp\src\functions.cpp
 	<iostream>
+
+1422564803 source:c:\users\baksteen\documents\projects\test_cpp\src\main.cpp
+	<iostream>
+	"func.h"
+
+1422564811 c:\users\baksteen\documents\projects\test_cpp\src\func.h
 
