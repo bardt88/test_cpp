@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1422196238 source:c:\users\baksteen\desktop\tt\test_cpp\main.cpp
+	<iostream>
+
+1422304847 source:c:\users\baksteen\desktop\tt\test_cpp\functions.cpp
+
+1422304847 source:c:\users\baksteen\documents\projects\test_cpp\src\functions.cpp
+
+1422561247 source:c:\users\baksteen\documents\projects\test_cpp\src\main.cpp
+	<iostream>
+
