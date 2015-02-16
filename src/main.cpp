@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-    test();
+    getNumbers();
     return 0;
 }
 
