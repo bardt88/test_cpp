@@ -1,4 +1,5 @@
 #include <iostream>
+#include <windows.h>
 
 using namespace std;
 
@@ -22,4 +23,20 @@ void getNumbers()
     cout << "You entered " << y << endl;
     cout << "You entered " << z << endl;
     cout << "You entered " << z2 << endl;
+}
+
+void printBool()
+{
+    bool b(true);
+    cout << b << endl;
+    cout << !b << endl;
+    cout << boolalpha;
+    bool b2(false);
+    cout << b2 << endl;
+    cout << !b2 << endl;
+}
+
+void endMain()
+{
+    cout << "\a";
 }

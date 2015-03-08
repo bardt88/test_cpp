@@ -4,12 +4,14 @@
 
 1422304847 source:c:\users\baksteen\desktop\tt\test_cpp\functions.cpp
 
-1424121950 source:c:\users\baksteen\documents\projects\test_cpp\src\functions.cpp
+1424536453 source:c:\users\baksteen\documents\projects\test_cpp\src\functions.cpp
 	<iostream>
+	<windows.h>
 
-1424121659 source:c:\users\baksteen\documents\projects\test_cpp\src\main.cpp
+1424536579 source:c:\users\baksteen\documents\projects\test_cpp\src\main.cpp
 	<iostream>
 	"func.h"
+	<unistd.h>
 
-1424121672 c:\users\baksteen\documents\projects\test_cpp\src\func.h
+1424536569 c:\users\baksteen\documents\projects\test_cpp\src\func.h
 
